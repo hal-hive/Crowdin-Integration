@@ -10,7 +10,7 @@
 Коли все підключено, будь ласка, перевірте, чи була синхронізація успішна, якщо є можливість завантажити деякі існуючі переклади з вашого репозиторію?
 Зробіть попередній переклад будь-якого файлу і спробуйте синхронізувати переклади вручну, щоб перевірити як вони отримали в репозиторії.
  Інтеграція створила гілку обслуговування, ви знаєте, як це працює?
-Ваші колеги запитують вас, чи є якийсь шанс змінити назви комітів? Do a small research on the matter.
- Also, there are quite many identical strings in your files (even with the same keys), and your colleagues are asking if there is any way on how to mass hide them and have the same translations for all of them. Do you know whether the duplicates option might be a solution? Test how duplicates work with identical strings.
+Ваші колеги запитують вас, чи є якийсь шанс змінити назви комітів? Проводьте невеличке дослідження з цього питання.
+ Крім того, в ваших файлах є багато ідентичних рядків (навіть із однаковими ключами) і ваші колеги запитують чи є якийсь спосіб приховати їх і мати однакові переклади для всіх них. Ви знаєте, чи може дублікати бути рішенням? Тест на те, як дублікати працюють з однаковими рядками.
 There is also GitHub Enterprise - is it any different? How to integrate it?
 Is there any difference between GitLab, Azure and Bitbucket integration?
