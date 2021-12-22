@@ -7,10 +7,10 @@
 Система просить вас вибрати опцію дублікатів.
 Необхідно увімкнути опцію Push Джерела?
 Ваші колеги попросили вас перевірити, чи є можливість отримувати переклади двічі на день у репозиторії?
-Once everything is connected, please check whether sync was successful and if there is any possibility to upload some existing translations from your repository?
-Pre-translate any file and try to sync manually translations to check how they are received in the repository.
- The integration has created a service branch, do you know how it works?
-Your colleagues are asking you if there is any chance to change the commit names? Do a small research on the matter.
+Коли все підключено, будь ласка, перевірте, чи була синхронізація успішна, якщо є можливість завантажити деякі існуючі переклади з вашого репозиторію?
+Зробіть попередній переклад будь-якого файлу і спробуйте синхронізувати переклади вручну, щоб перевірити як вони отримали в репозиторії.
+ Інтеграція створила гілку обслуговування, ви знаєте, як це працює?
+Ваші колеги запитують вас, чи є якийсь шанс змінити назви комітів? Do a small research on the matter.
  Also, there are quite many identical strings in your files (even with the same keys), and your colleagues are asking if there is any way on how to mass hide them and have the same translations for all of them. Do you know whether the duplicates option might be a solution? Test how duplicates work with identical strings.
 There is also GitHub Enterprise - is it any different? How to integrate it?
 Is there any difference between GitLab, Azure and Bitbucket integration?
