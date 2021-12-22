@@ -1,0 +1,16 @@
+Now, you’re a developer who has been invited to the Crowdin project to manage all the technical details and issues. You noticed that the project managers upload and download everything manually, which is not an option for you since you have all the needed files in the GitHub repository, therefore you have an assignment to do the following tasks:
+
+Do a small research on whether it is possible to connect/integrate/use your GitHub repository files with Crowdin project?
+If it is possible, what do you need in order to connect the repository? Do you need to have any specific rights or permissions?
+You noticed that there are quite many options to choose from for GitHub connection, and you’d need to use ignore filters, re-naming options, mapping, and add parameter to export only required languages (not all of them). Do a small research on how to achieve it.
+Once you connect the repository and select the needed branch, the system asks you to set up source and translations path - what is that?
+The system asks you to choose the duplicates option - find what each option does.
+Do you need to enable Push Sources option?
+Your colleagues asked you to check whether there is any possibility to receive the translations twice a day in the repository?
+Once everything is connected, please check whether sync was successful and if there is any possibility to upload some existing translations from your repository?
+Pre-translate any file and try to sync manually translations to check how they are received in the repository.
+ The integration has created a service branch, do you know how it works?
+Your colleagues are asking you if there is any chance to change the commit names? Do a small research on the matter.
+ Also, there are quite many identical strings in your files (even with the same keys), and your colleagues are asking if there is any way on how to mass hide them and have the same translations for all of them. Do you know whether the duplicates option might be a solution? Test how duplicates work with identical strings.
+There is also GitHub Enterprise - is it any different? How to integrate it?
+Is there any difference between GitLab, Azure and Bitbucket integration?

@@ -1,0 +1,13 @@
+Some of your colleagues also have the needed files for localization locally, and they need a way for automated workflow as well (preferably via Command Line). The task for you is to find a way similar to GitHub integration for your colleagues:
+
+Do a small research whether it’d be possible to upload and download the files via Command Line Interface (CLI)
+What are the options for CLI? What are the requirements and how it could be installed?
+Is there any chance you may use the same configuration file for GitHub integration and CLI?
+Set up a configuration file for CLI, and include all the required credentials, and try to upload a new branch with the files you’ve chosen
+Try to run a pre-translation for uploaded files via CLI
+Try to download translations for the file for one selected target language only.
+Thy to modify the configuration file and change the structure/path of the file in the project - is there any way on how to achieve it?
+Your localization team is also asking to upload spreadsheet via CLI, are there any specific requirements for such files?
+Since your files get new updates frequently, it’s best to find a way not to lose the translations for updated strings - do you know whether there is such an option?
+ Is it possible to manage Translation Memory and Glossary via CLI?
+In case you get any errors while running the commands, is there any way to check more details on the errors?
