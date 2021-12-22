@@ -1,3 +1,6 @@
+commit_message: "Fix commit message: New translations %original_file_name%"
+append_commit_message: false
+
 files:
   - source: /source/*.txt
     translation: /trenslated/%two_letters_code%/%original_file_name%
