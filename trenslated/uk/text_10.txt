@@ -1,12 +1,12 @@
-Now, you’re a developer who has been invited to the Crowdin project to manage all the technical details and issues. You noticed that the project managers upload and download everything manually, which is not an option for you since you have all the needed files in the GitHub repository, therefore you have an assignment to do the following tasks:
+Тепер ви розробник, який був запрошений до проекту Crowdin для управління усіма технічними подробицями і проблемами. Ви помітили, що менеджери проекту завантажують і завантажують все вручну, яка не є можливістю для вас, оскільки у вас є всі необхідні файли в репозиторії GitHub, тому у вас є завдання виконувати наступні завдання:
 
-Do a small research on whether it is possible to connect/integrate/use your GitHub repository files with Crowdin project?
-If it is possible, what do you need in order to connect the repository? Do you need to have any specific rights or permissions?
-You noticed that there are quite many options to choose from for GitHub connection, and you’d need to use ignore filters, re-naming options, mapping, and add parameter to export only required languages (not all of them). Do a small research on how to achieve it.
-Once you connect the repository and select the needed branch, the system asks you to set up source and translations path - what is that?
-The system asks you to choose the duplicates option - find what each option does.
-Do you need to enable Push Sources option?
-Your colleagues asked you to check whether there is any possibility to receive the translations twice a day in the repository?
+Чи можна зробити невелике дослідження чи можна приєднатися/інтегрувати файли репозиторію GitHub з проектом?
+Якщо це можливо, що вам потрібно, щоб підключити репозиторій? Необхідно мати якісь специфічні права або дозволи?
+Ви помітили, що з GitHub з'єднання досить багато варіантів, які потрібно вибрати з нього GitHub, і вам потрібно використовувати фільтри ігнорування, перейменування параметрів, зіставлення та додавання параметра для експорту лише потрібні мови (не у всіх). Зробіть невелике дослідження, щоб досягти цього.
+Після приєднання репозиторію і вибору потрібної гілки, система просить налаштувати шлях до вихідних і перекладів - що це таке?
+Система просить вас вибрати опцію дублікатів.
+Необхідно увімкнути опцію Push Джерела?
+Ваші колеги попросили вас перевірити, чи є можливість отримувати переклади двічі на день у репозиторії?
 Once everything is connected, please check whether sync was successful and if there is any possibility to upload some existing translations from your repository?
 Pre-translate any file and try to sync manually translations to check how they are received in the repository.
  The integration has created a service branch, do you know how it works?
