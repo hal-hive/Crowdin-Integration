@@ -1,0 +1,16 @@
+Тепер ви розробник, який був запрошений до проекту Crowdin для управління усіма технічними подробицями і проблемами. Ви помітили, що менеджери проекту завантажують і завантажують все вручну, яка не є можливістю для вас, оскільки у вас є всі необхідні файли в репозиторії GitHub, тому у вас є завдання виконувати наступні завдання:
+
+Чи можна зробити невелике дослідження чи можна приєднатися/інтегрувати файли репозиторію GitHub з проектом?
+Якщо це можливо, що вам потрібно, щоб підключити репозиторій? Необхідно мати якісь специфічні права або дозволи?
+Ви помітили, що з GitHub з'єднання досить багато варіантів, які потрібно вибрати з нього GitHub, і вам потрібно використовувати фільтри ігнорування, перейменування параметрів, зіставлення та додавання параметра для експорту лише потрібні мови (не у всіх). Зробіть невелике дослідження, щоб досягти цього.
+Після приєднання репозиторію і вибору потрібної гілки, система просить налаштувати шлях до вихідних і перекладів - що це таке?
+Система просить вас вибрати опцію дублікатів.
+Необхідно увімкнути опцію Push Джерела?
+Ваші колеги попросили вас перевірити, чи є можливість отримувати переклади двічі на день у репозиторії?
+Once everything is connected, please check whether sync was successful and if there is any possibility to upload some existing translations from your repository?
+Pre-translate any file and try to sync manually translations to check how they are received in the repository.
+ The integration has created a service branch, do you know how it works?
+Your colleagues are asking you if there is any chance to change the commit names? Do a small research on the matter.
+ Also, there are quite many identical strings in your files (even with the same keys), and your colleagues are asking if there is any way on how to mass hide them and have the same translations for all of them. Do you know whether the duplicates option might be a solution? Test how duplicates work with identical strings.
+There is also GitHub Enterprise - is it any different? How to integrate it?
+Is there any difference between GitLab, Azure and Bitbucket integration?
